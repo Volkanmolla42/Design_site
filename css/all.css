@@ -1,0 +1,7 @@
+/* core bootstrap css*/
+@import url("bootstrap/bootstrap.min.css");
+
+/* my custom css*/
+@import url("custom/extra.css");
+
+
